@@ -1,0 +1,37 @@
+{
+  "income": {
+    "code": "R01",
+    "text": "Income insufficient for amount of credit requested",
+    "actionable": true
+  },
+  "dti": {
+    "code": "R02",
+    "text": "Excessive obligations in relation to income",
+    "actionable": true
+  },
+  "utilisation": {
+    "code": "R03",
+    "text": "Proportion of balances to credit limits on revolving accounts is too high",
+    "actionable": true
+  },
+  "months_since_delinquency": {
+    "code": "R04",
+    "text": "Delinquent past or present credit obligations with others",
+    "actionable": false
+  },
+  "inquiries": {
+    "code": "R05",
+    "text": "Too many recent inquiries",
+    "actionable": true
+  },
+  "loan_amount": {
+    "code": "R06",
+    "text": "Amount of credit requested is too high",
+    "actionable": true
+  },
+  "employment_years": {
+    "code": "R07",
+    "text": "Length of employment",
+    "actionable": false
+  }
+}
