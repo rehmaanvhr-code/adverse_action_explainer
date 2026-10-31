@@ -1,0 +1,7 @@
+{
+  "n_denied": 2375,
+  "consistency": 0.6937263157894736,
+  "faithfulness": 0.8509473684210527,
+  "coverage_first": 0.7709473684210526,
+  "coverage_any": 1.0
+}
